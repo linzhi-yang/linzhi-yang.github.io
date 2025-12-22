@@ -59,3 +59,19 @@
   margin-top: 0.4rem;
 }
 
+/* === Custom text highlights === */
+.text-accent {
+  color: #0b63c7;   /* choose your accent color */
+  font-weight: 600;
+}
+
+.text-warn {
+  color: #b00020;   /* warning/emphasis */
+  font-weight: 600;
+}
+
+.text-muted {
+  color: #666;
+}
+
+
