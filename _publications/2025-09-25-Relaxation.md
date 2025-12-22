@@ -1,7 +1,7 @@
 ---
 title: "Relaxation to equilibrium of conservative dynamics II: non-gradient exclusion processes"
 collection: publications
-permalink: /publication/title-of-your-preprint
+permalink: /publication/2025-09-25-Relaxation.md
 date: 2025-09-25
 venue: "arXiv"
 paperurl: "[https://arxiv.org/abs/2509.20797]"
