@@ -24,16 +24,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Linzhi Yang"
+  name             : Linzhi Yang
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "ylz24@mails.tsinghua.edu.cn" 
+  email            : ylz24@mails.tsinghua.edu.cn 
 
   # Academic websites
-  academia         : # Tsinghua university, Qiuzhen college
+  academia         : Tsinghua university, Qiuzhen college
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
