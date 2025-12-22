@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Linzhi Yang(杨林直)"
 author_profile: true
 redirect_from: 
   - /about/
