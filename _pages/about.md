@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Linzhi Yang(杨林直)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 class="name-hero">Linzhi Yang (杨林直)</h1>
 
 Welcome to my homepage!
 
