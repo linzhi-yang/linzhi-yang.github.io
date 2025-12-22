@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "<h1 class="welcome-highlight">Welcome to Linzhi Yang’s homepage.</h1>"
+title: "Linzhi Yang|杨林直"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<h1 class="welcome-highlight">Welcome to my homepage.</h1>
 I am a Ph.D. student in Qiuzhen college at Tsinghua University, Beijing, China.
 
 Research Interest
