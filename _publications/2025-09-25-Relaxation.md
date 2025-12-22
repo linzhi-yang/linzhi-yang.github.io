@@ -8,5 +8,5 @@ paperurl: "https://arxiv.org/pdf/2509.20797.pdf"
 citation: 'Gu, Chenlin, and Linzhi Yang. "Relaxation to equilibrium of conservative dynamics II: non-gradient exclusion processes." arXiv preprint arXiv:2509.20797 (2025).'
 category: preprints
 ---
-
+Joint work with Chenlin Gu.
 
