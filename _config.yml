@@ -23,7 +23,7 @@ repository               : "linzhi-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/微信图片_20230929003109.jpg"
   name             : "Linzhi Yang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
