@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span class="text-accent">Welcome to Linzhi Yang's homepage.</span>"
+title: "<h1 class="welcome-highlight">Welcome to Linzhi Yang’s homepage.</h1>"
 author_profile: true
 redirect_from: 
   - /about/
