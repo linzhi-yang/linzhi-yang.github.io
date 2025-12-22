@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<h1 class="welcome-highlight">Welcome to my homepage.</h1>
+Welcome to my homepage!
+
 I am a Ph.D. student in Qiuzhen college at Tsinghua University, Beijing, China.
 
 Research Interest
