@@ -8,8 +8,7 @@ redirect_from:
 
 <h1 class="name-hero">Linzhi Yang (杨林直)</h1>
 
-Welcome to my homepage!
-
+Welcome to my homepage!  
 I am a Ph.D. student in Qiuzhen college at Tsinghua University, Beijing, China.
 
 Research Interest
