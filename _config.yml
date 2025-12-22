@@ -25,6 +25,7 @@ author:
   # Biographic information
   avatar           : "images/profile.jpg"
   name             : "Linzhi Yang"
+  
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Tsinghua university, Beijing, China"
