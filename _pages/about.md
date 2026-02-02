@@ -17,6 +17,6 @@ Homogenization, interacting particle systems, stochastic partial differential eq
 
 Education
 ======
-- Ph.D., Qiuzhen College, Tsinghua University, 2024—now.
-- B.A., Qiuzhen College, Tsinghua University, 2020—2024.
+- Ph.D., Qiuzhen College, Tsinghua University, 2024—present.
+- B.S., Qiuzhen College, Tsinghua University, 2020—2024.
 
