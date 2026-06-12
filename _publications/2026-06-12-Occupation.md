@@ -1,7 +1,7 @@
 ---
 title: "Scaling limit of additive functionals for reversible non-gradient exclusion process: critical cases"
 collection: publications
-permalink: /publication/relaxation-to-equilibrium-non-gradient-exclusion
+permalink: /publication/Additive-functionals-non-gradient-exclusion
 date: 2026-06-12
 venue: "arXiv"
 paperurl: "https://arxiv.org/pdf/2606.13442"
